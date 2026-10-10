@@ -1,0 +1,79 @@
+# =========================
+# Operating System files
+# =========================
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+$RECYCLE.BIN/
+*.lnk
+
+# =========================
+# Logs and temp files
+# =========================
+*.log
+*.log.*
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+logs/
+output/
+artifacts/
+
+# =========================
+# PowerShell / Windows artifacts
+# =========================
+*.ps1xml
+*.psm1
+*.psd1
+*.exe
+*.dll
+*.msi
+*.cab
+*.zip
+*.rar
+*.7z
+
+# =========================
+# IDE / editor
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# =========================
+# Build / dependency folders
+# =========================
+bin/
+obj/
+dist/
+build/
+out/
+coverage/
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# =========================
+# Git
+# =========================
+.git/
